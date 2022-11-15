@@ -24,6 +24,7 @@ void reed_ekidan2() {
 void dmuno2_dnune5(){
   printf("David Munoz and Daniel Nunez-Cortes\n");
   printf("We learned how to use github within replit and we learned that we can edit code from the repository and change it, and send it back to the repository where it will be updated.");
+  printf("this is cool");
 }
 
 int main()
